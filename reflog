@@ -1,0 +1,13 @@
+C:\Users\Szymon\IdeaProjects\egzamin>git reflog
+3a34f5c (HEAD -> deathedHeadBranch) HEAD@{0}: checkout: moving from ea2cf91af54c200e14150f8f2fcd8ff8a17c3399 to deathedHeadBranch
+ea2cf91 HEAD@{1}: commit: Lorem ipsum 2
+00b23b6 HEAD@{2}: commit: Lorem ipsum 2
+3a34f5c (HEAD -> deathedHeadBranch) HEAD@{3}: checkout: moving from texts to 3a34f5c53ea3154700d70f1751a37ba8d96300ec
+e2fdc56 (tag: v1.1, origin/texts, texts) HEAD@{4}: commit: Kant rozprawa
+3a34f5c (HEAD -> deathedHeadBranch) HEAD@{5}: commit: Lorem ipusum
+0c917fe (origin/main, origin/HEAD, main) HEAD@{6}: checkout: moving from main to texts
+0c917fe (origin/main, origin/HEAD, main) HEAD@{7}: merge origin/main: Fast-forward
+5009c29 HEAD@{8}: checkout: moving from main to main
+5009c29 HEAD@{9}: branch: Reset to origin/main
+5009c29 HEAD@{10}: checkout: moving from main to main
+5009c29 HEAD@{11}: branch: Reset to origin/main
